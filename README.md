@@ -4,8 +4,9 @@
 
 ## About me
 
-- :school: I am a `Senior` attending [University of Hawaii at Manoa](http://suez.edu.eg/ar/), hell-bent on pursuing a graduate degree.
-- :student: I’m currently learning `Computer Science`, `Artificial Intelligence`, `Natural Language Processing`.
+- :school: B.S. in Computer Science Data Science, from [University of Hawaii at Manoa]([http://suez.edu.eg/ar/](https://manoa.hawaii.edu/)).
+- 🎓 (Incoming) M.S. in Computer Science Data Science, from ??? 👀.
+- 📝: I’m currently learning `Computer Science`, `Artificial Intelligence`, `Natural Language Processing`.
 <be>
 
 <h3 align="left">Languages and Tools:</h3>
