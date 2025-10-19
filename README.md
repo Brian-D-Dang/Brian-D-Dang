@@ -6,7 +6,7 @@
 
 - :school: B.S. in Computer Science Data Science, from [University of Hawaii at Manoa]([http://suez.edu.eg/ar/](https://manoa.hawaii.edu/)).
 - 💻: Working at NVIDIA.
-- 📝: I’m currently learning `Artificial Intelligence`, `Machine Learning`, `Natural Language Processing`.
+- 📝: Area's of interest: `LLM Red Teaming`, `Machine Learning`, `Natural Language Processing`.
 <be>
 
 <h3 align="left">Languages and Tools:</h3>
